@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberGUI", "WindowsFormsApp1\PrimeNumberGUI.csproj", "{0EE42C94-BAC0-4195-8E65-4D0F462A5BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTool", "PrimeTool\PrimeTool.csproj", "{5675E33E-DC38-4D6D-8904-481350346C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE42C94-BAC0-4195-8E65-4D0F462A5BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE42C94-BAC0-4195-8E65-4D0F462A5BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE42C94-BAC0-4195-8E65-4D0F462A5BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE42C94-BAC0-4195-8E65-4D0F462A5BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5675E33E-DC38-4D6D-8904-481350346C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5675E33E-DC38-4D6D-8904-481350346C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5675E33E-DC38-4D6D-8904-481350346C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5675E33E-DC38-4D6D-8904-481350346C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A87D2E6-33A6-40C6-9FEA-7FE1B790F755}
+	EndGlobalSection
+EndGlobal
